@@ -8,4 +8,4 @@ This is a repo where all codes and links for publication will be uploaded. Upon 
 
 **[Yuanhao Zhang](https://yuanhaozhang.xyz/)**
 
-**[Xiojuan Ma](https://www.cse.ust.hk/~mxj/)**
+**[Xiaojuan Ma](https://www.cse.ust.hk/~mxj/)**
